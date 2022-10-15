@@ -1,0 +1,272 @@
+[
+    {
+        "address": "Esmeralda 940 L.4 - Valparaíso",
+        "latlon": [
+            -71.625896,
+            -33.041008
+        ],
+        "name": "Oriencoop",
+        "phones": [
+            "71-2201096"
+        ],
+        "working_hours": [
+            "Mañana: 08.50 a 14.10 hrs.",
+            "Tarde: 15.00 a 17.10 horas (L a J) / Hasta 16.10 horas (V)"
+        ]
+    },
+    {
+        "address": "San Antonio 399 - Santiago",
+        "latlon": [
+            -70.65260126676306,
+            -33.43832688077745
+        ],
+        "name": "Oriencoop",
+        "phones": [
+            "71-2201020"
+        ],
+        "working_hours": [
+            "Mañana: 8.50 a 14.10 hrs.",
+            "Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)"
+        ]
+    },
+    {
+        "address": "Bernardo O Higgins 479 - San Fernando",
+        "latlon": [
+            -70.985833,
+            -34.589468
+        ],
+        "name": "Oriencoop",
+        "phones": [
+            "71-2201048"
+        ],
+        "working_hours": [
+            "Mañana: 8.50 a 14.10 hrs.",
+            "Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)"
+        ]
+    },
+    {
+        "address": "Claudina Urrutia 356 - Cauquenes",
+        "latlon": [
+            -72.314618,
+            -35.968138
+        ],
+        "name": "Oriencoop",
+        "phones": [
+            "71-2201004"
+        ],
+        "working_hours": [
+            "Mañana: 8.50 a 14.10 hrs.",
+            "Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)"
+        ]
+    },
+    {
+        "address": "Merced 263 - Curicó",
+        "latlon": [
+            -71.24058588476015,
+            -34.98461748036257
+        ],
+        "name": "Oriencoop",
+        "phones": [
+            "71-2201046"
+        ],
+        "working_hours": [
+            "Mañana: 8.50 a 14.10 hrs.",
+            "Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)"
+        ]
+    },
+    {
+        "address": "Quechereguas 1783 - Molina",
+        "latlon": [
+            -71.28241558421793,
+            -35.11295378033085
+        ],
+        "name": "Oriencoop",
+        "phones": [
+            "71-2201021"
+        ],
+        "working_hours": [
+            "Mañana: 8.50 a 14.10 hrs.",
+            "Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)"
+        ]
+    },
+    {
+        "address": "Maipú 360 - Linares",
+        "latlon": [
+            -71.60309936671447,
+            -35.847349080155915
+        ],
+        "name": "Oriencoop",
+        "phones": [
+            "71-2201007"
+        ],
+        "working_hours": [
+            "Mañana: 8.50 a 14.10 hrs.",
+            "Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)"
+        ]
+    },
+    {
+        "address": "Anibal Pinto 879 - Parral",
+        "latlon": [
+            -71.82466036670827,
+            -36.14100368008951
+        ],
+        "name": "Oriencoop",
+        "phones": [
+            "71-2201003"
+        ],
+        "working_hours": [
+            "Mañana: 8.50 a 14.10 hrs.",
+            "Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)"
+        ]
+    },
+    {
+        "address": "Arturo Prat 2639 - San Javier",
+        "latlon": [
+            -71.73882276671965,
+            -35.59437328021466
+        ],
+        "name": "Oriencoop",
+        "phones": [
+            "71-2201008"
+        ],
+        "working_hours": [
+            "Mañana: 8.50 a 14.10 hrs.",
+            "Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)"
+        ]
+    },
+    {
+        "address": "Montt 262 - Constitución",
+        "latlon": [
+            -72.41846583174838,
+            -35.330429180277605
+        ],
+        "name": "Oriencoop",
+        "phones": [
+            "71-2201009"
+        ],
+        "working_hours": [
+            "Mañana: 8.50 a 14.10 hrs.",
+            "Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)"
+        ]
+    },
+    {
+        "address": "Plaza de Armas s/n - Curepto",
+        "latlon": [
+            -72.02278090744015,
+            -35.093683113904646
+        ],
+        "name": "Oriencoop",
+        "phones": [
+            "71-2201018"
+        ],
+        "working_hours": [
+            "Mañana: 8.50 a 14.10 hrs.",
+            "Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)"
+        ]
+    },
+    {
+        "address": "Huamachuco 810 - San Clemente",
+        "latlon": [
+            -71.49241739950547,
+            -35.53831967525025
+        ],
+        "name": "Oriencoop",
+        "phones": [
+            "71-2201005"
+        ],
+        "working_hours": [
+            "Mañana: 8.50 a 14.10 hrs.",
+            "Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)"
+        ]
+    },
+    {
+        "address": "14 Oriente 968 - Talca",
+        "latlon": [
+            -71.64955616672312,
+            -35.430132980253575
+        ],
+        "name": "Oriencoop",
+        "phones": [
+            "71-2201102"
+        ],
+        "working_hours": [
+            "Continuado: 8.50 a 17.10 hrs. (L a J)",
+            "Continuado: 8.50 a 16.10 hrs. (V)"
+        ]
+    },
+    {
+        "address": "Valdivia 320 - Los Ángeles",
+        "latlon": [
+            -72.35683556668,
+            -37.46984977981619
+        ],
+        "name": "Oriencoop",
+        "phones": [
+            "71-2201098"
+        ],
+        "working_hours": [
+            "Mañana: 8.50 a 14.10 hrs.",
+            "Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)"
+        ]
+    },
+    {
+        "address": "Barros Arana 519 - Concepción",
+        "latlon": [
+            -73.06089423171707,
+            -36.82717097994286
+        ],
+        "name": "Oriencoop",
+        "phones": [
+            "71-2201093"
+        ],
+        "working_hours": [
+            "Mañana: 8.50 a 14.10 hrs.",
+            "Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)"
+        ]
+    },
+    {
+        "address": "18 de Septiembre 618 - Chillán",
+        "latlon": [
+            -72.10891433258743,
+            -36.60729041556832
+        ],
+        "name": "Oriencoop",
+        "phones": [
+            "71-2201062"
+        ],
+        "working_hours": [
+            "Mañana: 08.50 a 14.10 hrs.",
+            "Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)"
+        ]
+    },
+    {
+        "address": "Manuel Bulnes 649, local 2A - Temuco",
+        "latlon": [
+            -72.59375619494185,
+            -38.74014213331328
+        ],
+        "name": "Oriencoop",
+        "phones": [
+            "71-2201067"
+        ],
+        "working_hours": [
+            "Mañana: 08.50 a 14.10 horas",
+            "Tarde: 15.00 a 17.10 horas (L a J) / Hasta 16.10 horas (V)"
+        ]
+    },
+    {
+        "address": "Antonio Varas 472 - Puerto Montt",
+        "latlon": [
+            -72.94546736658977,
+            -41.472367679256436
+        ],
+        "name": "Oriencoop",
+        "phones": [
+            "71-2201094"
+        ],
+        "working_hours": [
+            "Mañana: 8.50 a 14.10 hrs.",
+            "Tarde: 15.00 a 17.10 horas (L a J) / Hasta 16.10 horas (V)"
+        ]
+    }
+]
